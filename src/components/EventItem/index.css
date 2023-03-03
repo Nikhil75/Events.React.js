@@ -1,0 +1,22 @@
+button {
+  cursor: pointer;
+  border-width: 0px;
+  background-color: transparent;
+}
+.image {
+  height: 30vh;
+  width: 300px;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+li {
+  list-style: none;
+}
+.festival-name {
+  font-size: 20px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.location {
+  margin-top: 10px;
+}

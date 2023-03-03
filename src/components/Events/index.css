@@ -1,0 +1,27 @@
+.events-container {
+  background-image: linear-gradient(to right, #64748b, #323f4b);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.event-head {
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.results-container {
+  height: 100vh;
+  background-color: white;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
